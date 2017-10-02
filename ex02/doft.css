@@ -1,0 +1,232 @@
+.top{
+    position: relative;
+    width: 70%;
+    height: 120px;
+    margin : auto;
+    border-radius: 12px;
+    border: 2px solid #909090;
+    background-color: rgb(144, 144, 144);
+    box-shadow: 10px 10px 5px #1a191a;
+}
+
+.block
+{
+    position: relative;
+    width: 70%;
+    height: auto;
+    margin: auto;
+}
+.leftside{
+    position: relative;
+    left: 2%;
+    float: left;
+    width: 10%;
+    height: 380px;
+    border-radius: 12px;
+    border: 2px solid #909090;
+    background-color: rgb(144, 144, 144);
+    box-shadow: 10px 10px 5px #1a191a;
+}
+
+.rightside{
+    position: relative;
+    left: 8%;
+    float: left;
+    width: 10%;
+    height: 380px;
+    border-radius: 12px;
+    border: 2px solid #909090;
+    background-color: rgb(144, 144, 144);
+    box-shadow: 10px 10px 5px #1a191a;
+}
+
+.greenbox
+{
+    position: absolute;
+    top: 450px;
+    left: -30px;
+    width: 450px;
+    height: 150px;
+    border-radius: 9px;
+    background-color: rgb(153, 255, 153);
+    box-shadow: 10px 10px 5px #1a191a;
+}
+
+.fill
+{
+    positon: relative;
+    float: left;
+    padding-left: -20%;
+    top: 5%;
+    width: 70%;
+    height: 10%;
+    border: 2px solid #909090;
+    background-color: rgb(255, 255, 255);
+}
+
+.button
+{
+    positon: relative;
+    float: left;
+    padding-bottom: 1%;
+    margin-left: 2%;
+    width: 20%;
+    height: 10%;
+    border: 2px solid #bfbfbf;
+    background-color: rgb(230, 230, 230);
+}
+.text
+{
+    position: relative;
+    top: 2%;
+    left: 2%;
+    width: 90%;
+    height: 90%;
+}
+
+.mside
+{
+    position: relative;
+    left: 5%;
+    float: left;
+    width: 70%;
+    height: 510px;
+    border-radius: 12px;
+    border: 2px solid #909090;
+    background-color: rgb(144, 144, 144);
+    box-shadow: 10px 10px 5px #1a191a;
+}
+
+.chair
+{
+    position: absolute;
+    left: 33%;
+    top: 58%;
+    width: 12%;
+    height: 37%;
+}
+
+.screen
+{
+    position: absolute;
+    left: 78%;
+    top: 56%;
+    width: 18%;
+    height: 27%;
+}
+.topimage
+{
+    padding: 5px;
+    width:380px;
+    height:100px;
+    margin: auto;
+    position : relative;
+}
+
+.boximage
+{
+    position: relative;
+    top: 1%;
+    left: 1%;
+    width: 98%;
+    height: 98%;
+    margin: auto;
+}
+
+.leftimage
+{
+    position: relative;
+    left: 22.5%;
+    top: 3%;
+    float: left;
+    width: 52%;
+    height: 18%;
+    margin: auto;
+}
+
+.red
+{
+    float: left;
+    position: relative;
+    top: 4%;
+    left: 15%;
+    border-radius: 10px;
+    border:5px solid #ff3300;
+    width: 60%;
+    height: 18%;
+    margin: auto;
+}
+
+.redimage
+{
+    position: relative;
+    top: 0.5%;
+    left: 1%;
+    width: 98%;
+    height: 98%;
+    margin: auto;
+}
+
+.reload
+{
+    position: relative;
+    float: right;
+    top: 5px;
+    right: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+.cancel
+{
+    position: relative;
+    float: right;
+    right: -15px;
+    top: 94px;
+    width: 20px;
+    height: 20px;
+}
+
+.glass
+{
+    position: relative;
+    float: right;
+    right: -10px;
+    top: 8px;
+    width: 220px;
+    height: 130px;
+}
+
+.book
+{
+    position: relative;
+    float: left;
+    top: 2%;
+    left: 25%;
+    width: 48%;
+    height: 21%;
+    margin: auto;
+}
+
+.towel
+{
+    position: relative;
+    float: left;
+    right: 25px;
+    top: 96px;
+    width: 60px;
+    height: 60px;
+    margin: auto;
+}
+
+.brick
+{
+    position: relative;
+    top: 45%;
+    left: 5%;
+    width: 90%;
+    height: 19%;
+    background: url("/goinfre/nmtimkul/Desktop/Day00/Day00/ex02/resources/brick.jpg");
+    background-position: left top;
+    background-repeat: repeat;
+}
